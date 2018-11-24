@@ -17,8 +17,6 @@ int main(void)
 					num = num * (i - j + 1) / j;
 					printf("%4d", num);
 				}
-			for (j = 0; j < (line * 4 - (i + 1) * 4) / 2; j++)
-				putchar(' ');
 			putchar('\n');
 		}
 		putchar('\n');
