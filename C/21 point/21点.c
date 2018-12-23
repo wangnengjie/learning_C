@@ -134,7 +134,6 @@ int main(void)
 	getchar();
 	return 0;
 }
-
 void getpoker(struct base poker[], struct base object[], int * ptr)
 {
 	int k;

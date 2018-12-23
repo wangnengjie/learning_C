@@ -30,7 +30,6 @@ int main(void)
 	}
 	return 0;
 }
-
 double callif(double num1, double num2, char k)
 {
 	double result;
